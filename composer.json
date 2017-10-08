@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "nesbot/carbon": "1.22.1"
+
+  },
+  "require-dev": {
+    "behat/behat": "^3.4",
+    "phpunit/phpunit": "^5.7"
+  }
+}
